@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 👋 Hi, I'm Adham!<br><br>### 💻 Software Developer | AI & Robotics Enthusiast | Web Developer<br><br>Welcome to my GitHub! I'm passionate about technology, programming, and building creative solutions to real-world problems.<br><br>I enjoy exploring the world of **Artificial Intelligence, Robotics, Computer Vision, and Software Development**, turning ideas into practical projects.<br><br>### 🚀 What I'm Interested In<br>- 🤖 Artificial Intelligence & Machine Learning<br>- 👁️ Computer Vision & Object Detection<br>- 🌊 Robotics & ROV Development<br>- 🐍 Python Programming<br>- 🌐 Web Development<br>- 🧩 Problem Solving & Algorithms<br><br>### 🛠️ Technologies & Tools<br>- Python<br>- TypeScript<br>- Git & GitHub<br>- Arduino & Robotics<br><br>### 📌 Featured Projects<br>- **MarineXperts ROV** – Underwater robotics and ROV development.<br>- **Mako** – Software development project.<br>- **Shayboub Showcase Web** – Web development.<br>- **Pathfinder Grade Guide** – A TypeScript project.<br>- **3D Model** – 3D modeling project.<br><br>### 🎯 My Goal<br>To keep learning, experiment with new technologies, and build innovative projects that combine software, AI, and engineering.<br><br>### 📫 Connect With Me<br>- GitHub: [@adhamsherif67A](https://github.com/adhamsherif67A)<br><br>---<br><br>
+
 
 
 ## 🌐 Socials:
